@@ -1,0 +1,17 @@
+{{#estudiante}}
+
+<tittle><h3> Estudiante </tittle></h3>
+<table> <div class="resultItem">
+	<tr>
+	<td><h3  class="Id">{{id}}</h3></td>
+	<td><h3 class="identificacion">{{identificacion}}</h3></td>
+	<td><h3 class="nombre_1">{{nombre_1}}</h3></td>
+	<td><h3 class="nombre_2">{{nombre_2}}</h3></td>
+	<td><h3 class="apellido_1">{{apellido_1}}</h3></td>
+	<td><h3 class="apellido_2">{{apellido_2}}</h3></td>
+	</tr>
+	
+	
+</table>
+</div>
+{{/estudiante}}

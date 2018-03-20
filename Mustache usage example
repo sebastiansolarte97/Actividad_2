@@ -1,0 +1,2 @@
+I have put together a this gist with my example code of usage of Mustache, I found the examples online a bit simplistic (for example both template and data were passed to Mustache.render inline) so maybe somebody else will be able to reuse it.
+It also is the code for my article "2 things I did not understand about Mustache.js" http://morenafiore.com/2-things-i-did…about-mustache/
