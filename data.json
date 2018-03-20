@@ -1,0 +1,30 @@
+{
+  "estudiante":[
+  {
+    "id": 0,
+    "identificacion": "1067955887",
+    "nombre_1": "Sebastián",
+    "nombre_2": "Andrés",
+    "apellido_1": "Solarte",
+    "apellido_2": "Saéz"
+  
+  },
+  {
+    "id": 1,
+    "identificacion": "1003431338",
+    "nombre_1": "Estefany",
+    "nombre_2": "María",
+    "apellido_1": "Arroyo",
+    "apellido_2": "Durango"
+  },
+  {
+    "id": 2,
+    "identificacion": "1067938344",
+    "nombre_1": "Aurora",
+    "nombre_2": "María",
+    "apellido_1": "Humanez",
+    "apellido_2": "Rangel"
+  }
+
+]
+}
